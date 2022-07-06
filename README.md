@@ -2,7 +2,7 @@
 
 - ♻️ Hoje estou em transição de carreira.
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas 12/2022.
-- 👩‍💻 Estudando tecnologias para o desenvolvimento front-end. 
+- 👩‍💻 Estudando tecnologias para o desenvolvimento full stack. 
 - 🌻 Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/janaribeirof">
