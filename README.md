@@ -1,7 +1,7 @@
 ### Oiii, Eu sou a Janaina Ribeiro 👋
 
 - ♻️ Hoje estou em transição de carreira.
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas 12/2022.
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas 12/2022.
 - 👩‍💻 Estudando tecnologias para o desenvolvimento full stack. 
 - 🌻 Pronouns: ela/dela
 <div align="center">
